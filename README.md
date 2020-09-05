@@ -1,2 +1,2 @@
-# samal
+ samal
 hi hello
